@@ -1,0 +1,412 @@
+[
+  {
+    "city": "Akureyri", 
+    "lat": "65.68094", 
+    "lng": "-18.08953",
+    "iso2": "ICE", 
+    "admin_name": "Iceland",
+    "population": "18191"
+  },
+  {
+    "city": "Anchorage", 
+    "lat": "61.21656", 
+    "lng": "-149.89484", 
+    "country": "USA", 
+    "iso2": "AK", 
+    "admin_name": "Alaska",
+    "population": "287145"
+  },
+  {
+    "city": "Athens", 
+    "lat": "37.98557", 
+    "lng": "23.72837",
+    "iso2": "GRE", 
+    "admin_name": "Greece",
+    "population": "3154000"
+  },
+  {
+    "city": "Atlanta", 
+    "lat": "33.74819", 
+    "lng": "-84.39086", 
+    "country": "USA", 
+    "iso2": "GA", 
+    "admin_name": "Georgia",
+    "population": "499127"
+  },
+  {
+    "city": "Baghdad", 
+    "lat": "33.33029", 
+    "lng": "-44.39176",
+    "iso2": "IRA", 
+    "admin_name": "Iraq",
+    "population": "7665000"
+  },
+  {
+    "city": "Baltimore", 
+    "lat": "39.045753", 
+    "lng": "-76.641273", 
+    "country": "USA", 
+    "iso2": "MD", 
+    "admin_name": "Maryland",
+    "population": "569931"
+  },
+  {
+    "city": "Berlin", 
+    "lat": "52.51874", 
+    "lng": "-13.40802",
+    "iso2": "GER", 
+    "admin_name": "Germany",
+    "population": "3645000"
+  },
+  {
+    "city": "Boston", 
+    "lat": "42.36026", 
+    "lng": "-71.05728", 
+    "country": "USA", 
+    "iso2": "MA", 
+    "admin_name": "Massachusetts",
+    "population": "650706"
+  },
+  {
+    "city": "Brussels", 
+    "lat": "50.84638", 
+    "lng": "-4.35139",
+    "iso2": "BEL", 
+    "admin_name": "Belgium",
+    "population": "1209000"
+  },
+  {
+    "city": "Castries", 
+    "lat": "14.00868", 
+    "lng": "-60.99137",
+    "iso2": "STL", 
+    "admin_name": "Saint Lucia",
+    "population": "20000"
+  },
+  {
+    "city": "Cedar Rapids", 
+    "lat": "41.97765", 
+    "lng": "-91.66939", 
+    "country": "USA", 
+    "iso2": "IA", 
+    "admin_name": "Iowa",
+    "population": "136429"
+  },
+  {
+    "city": "Charlotte", 
+    "lat": "35.22169", 
+    "lng": "-80.83973", 
+    "country": "USA", 
+    "iso2": "NC", 
+    "admin_name": "North Carolina",
+    "population": "897720"
+  },
+  {
+    "city": "Chicago", 
+    "lat": "41.88372", 
+    "lng": "-87.63238", 
+    "country": "USA", 
+    "iso2": "IL", 
+    "admin_name": "Illinois",
+    "population": "2665000"
+  },
+  {
+    "city": "Detroit", 
+    "lat": "42.32939", 
+    "lng": "-83.04493", 
+    "country": "USA", 
+    "iso2": "MI", 
+    "admin_name": "Michigan",
+    "population": "620376"
+  },
+  {
+    "city": "Harrisburg", 
+    "lat": "40.25997", 
+    "lng": "-76.88233", 
+    "country": "USA", 
+    "iso2": "PA", 
+    "admin_name": "Pennsylvania",
+    "population": "50183"
+  },
+  {
+    "city": "Honolulu", 
+    "lat": "21.30469", 
+    "lng": "-157.85739", 
+    "country": "USA", 
+    "iso2": "HI", 
+    "admin_name": "Hawaii",
+    "population": "343421"
+  },
+  {
+    "city": "Houston", 
+    "lat": "29.76038", 
+    "lng": "-95.36981", 
+    "country": "USA", 
+    "iso2": "TX", 
+    "admin_name": "Texas",
+    "population": "2303000"
+  },
+  {
+    "city": "Jeddah", 
+    "lat": "21.55403", 
+    "lng": "-39.20874",
+    "iso2": "SAU", 
+    "admin_name": "Saudi Arabia",
+    "population": "3976000"
+  },
+  {
+    "city": "Jerusalem", 
+    "lat": "31.78843", 
+    "lng": "-35.21850",
+    "iso2": "ISR", 
+    "admin_name": "Israel",
+    "population": "874186"
+  },
+  {
+    "city": "Las Vegas", 
+    "lat": "36.16675", 
+    "lng": "-115.14871", 
+    "country": "USA", 
+    "iso2": "NV", 
+    "admin_name": "Nevada",
+    "population": "656274"
+  },
+  {
+    "city": "London", 
+    "lat": "51.50335", 
+    "lng": "0.07940", 
+    "country": "UK", 
+    "iso2": "UK", 
+    "admin_name": "England",
+    "population": "8982000"
+  },
+  {
+    "city": "Los Angeles", 
+    "lat": "34.05334", 
+    "lng": "-118.24235", 
+    "country": "USA", 
+    "iso2": "CA", 
+    "admin_name": "California",
+    "population": "3822000"
+  },
+  {
+    "city": "Madrid", 
+    "lat": "40.41921", 
+    "lng": "-3.69252",
+    "iso2": "SPA", 
+    "admin_name": "Spain",
+    "population": "3223000"
+  },
+  {
+    "city": "Mexico City", 
+    "lat": "19.43011", 
+    "lng": "-99.13361",
+    "iso2": "MEX", 
+    "admin_name": "Mexico",
+    "population": "8855000"
+  },
+  {
+    "city": "Miami", 
+    "lat": "25.77084", 
+    "lng": "-80.19764", 
+    "country": "USA", 
+    "iso2": "FL", 
+    "admin_name": "Florida",
+    "population": "449514"
+  },
+  {
+    "city": "Minneapolis", 
+    "lat": "44.97777", 
+    "lng": "-93.26507", 
+    "country": "USA", 
+    "iso2": "MN", 
+    "admin_name": "Minnesota",
+    "population": "425096"
+  },
+  {
+    "city": "Moscow", 
+    "lat": "37.61929", 
+    "lng": "-55.75866",
+    "iso2": "RUS", 
+    "admin_name": "Russia",
+    "population": "5356392"
+  },
+  {
+    "city": "Nashville", 
+    "lat": "36.16607", 
+    "lng": "-86.77780",
+    "country": "USA", 
+    "iso2": "TN", 
+    "admin_name": "Tennessee",
+    "population": "692587"
+  },
+  {
+    "city": "Nassau", 
+    "lat": "25.07704", 
+    "lng": "-77.34033",
+    "iso2": "BAH", 
+    "admin_name": "Bahamas",
+    "population": "266100"
+  },
+  {
+    "city": "New Orleans", 
+    "lat": "29.95254", 
+    "lng": "-90.07669", 
+    "country": "USA", 
+    "iso2": "LA", 
+    "admin_name": "Louisiana",
+    "population": "369749"
+  },
+  {
+    "city": "New York", 
+    "lat": "40.71298", 
+    "lng": "-74.00720", 
+    "country": "USA", 
+    "iso2": "NY", 
+    "admin_name": "New York",
+    "population": "8336000"
+  },
+  {
+    "city": "Ocean City", 
+    "lat": "38.33460", 
+    "lng": "-75.08468", 
+    "country": "USA", 
+    "iso2": "MD", 
+    "admin_name": "Maryland",
+    "population": "6915"
+  },
+  {
+    "city": "Paramaribo", 
+    "lat": "5.83073", 
+    "lng": "-55.16765",
+    "iso2": "SUR", 
+    "admin_name": "Suriname",
+    "population": "223757"
+  },
+  {
+    "city": "Paris", 
+    "lat": "48.85679", 
+    "lng": "2.35108",
+    "iso2": "FR", 
+    "admin_name": "France",
+    "population": "2161000"
+  },
+  {
+    "city": "Philadelphia", 
+    "lat": "39.952583", 
+    "lng": "-75.165222", 
+    "country": "USA", 
+    "iso2": "PA", 
+    "admin_name": "Pennsylvania",
+    "population": "1567000"
+  },
+  {
+    "city": "Phoenix", 
+    "lat": "33.44825", 
+    "lng": "-112.07662", 
+    "country": "USA", 
+    "iso2": "AZ", 
+    "admin_name": "Arizona",
+    "population": "1644000"
+  },
+  {
+    "city": "Pittsburgh", 
+    "lat": "40.43786", 
+    "lng": "-79.99626", 
+    "country": "USA", 
+    "iso2": "PA", 
+    "admin_name": "Pennsylvania",
+    "population": "302898"
+  },
+  {
+    "city": "Reykjavik", 
+    "lat": "64.14760", 
+    "lng": "21.93862",
+    "iso2": "ICE", 
+    "admin_name": "Iceland",
+    "population": "122853"
+  },
+  {
+    "city": "Richmond", 
+    "lat": "37.54057", 
+    "lng": "-77.43338", 
+    "country": "USA", 
+    "iso2": "VA", 
+    "admin_name": "Virginia",
+    "population": "229395"
+  },
+  {
+    "city": "Rome", 
+    "lat": "41.88929", 
+    "lng": "-12.49355",
+    "iso2": "IT", 
+    "admin_name": "Italy",
+    "population": "2800000"
+  },
+  {
+    "city": "Seattle", 
+    "lat": "47.60378", 
+    "lng": "-122.33077", 
+    "country": "USA", 
+    "iso2": "WA", 
+    "admin_name": "Washington",
+    "population": "749256"
+  },
+  {
+    "city": "Seoul", 
+    "lat": "37.56698", 
+    "lng": "-126.97824",
+    "iso2": "SKOR", 
+    "admin_name": "South Korea",
+    "population": "9776000"
+  },
+  {
+    "city": "Shanghai", 
+    "lat": "31.22031", 
+    "lng": "121.46239",
+    "iso2": "CHI", 
+    "admin_name": "China",
+    "population": "26320000"
+  },
+  {
+    "city": "St. Louis", 
+    "lat": "38.62763", 
+    "lng": "-90.19909",
+    "country": "USA", 
+    "iso2": "MO", 
+    "admin_name": "Missouri",
+    "population": "286578"
+  },
+  {
+    "city": "Sydney", 
+    "lat": "33.87271", 
+    "lng": "-151.20569",
+    "iso2": "AUS", 
+    "admin_name": "Australia",
+    "population": "5312000"
+  },
+  {
+    "city": "Tokyo", 
+    "lat": "35.68951", 
+    "lng": "-139.69170",
+    "iso2": "JAP", 
+    "admin_name": "Japan",
+    "population": "13960000"
+  },
+  {
+    "city": "Toronto", 
+    "lat": "43.65161", 
+    "lng": "-79.38313",
+    "iso2": "CAN", 
+    "admin_name": "Ontario, Canada", 
+    "population": "2930000"
+  },
+  {
+    "city": "Vienna", 
+    "lat": "48.21953", 
+    "lng": "16.37849",
+    "iso2": "AU", 
+    "admin_name": "Austria",
+    "population": "1897000"
+  }
+]
