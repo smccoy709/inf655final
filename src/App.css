@@ -3,12 +3,11 @@
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-image: url('./Assets/wallpaper2.jpg');
+    background-image: url('./Assets/storm.gif');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
-
 
 .weatherSection{
   display: flex;
