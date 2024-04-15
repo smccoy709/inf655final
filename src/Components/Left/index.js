@@ -32,7 +32,7 @@ const LeftComponents = () => {
                         className="weatherIcon" alt="myit"
                         src={`http://openweathermap.org/img/wn/${current.weather[0].icon}@2x.png`}
                     />
-                    <h1 className="weatherTemp">{Math.round(current.temp.max)}°F</h1>
+                    <h1 className="weatherTemp">{Math.round((current.temp.max)* 1.8) + 32}°F</h1>
                     <h3 className="weatherDesc">{current.weather[0].main}</h3>
                 </div>
             </div>
